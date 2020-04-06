@@ -27,4 +27,4 @@ Feature List
 
 
 
-The screen shot of features are in Readme.pdf
+The screen shot of features are in README.pdf

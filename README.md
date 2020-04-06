@@ -29,3 +29,7 @@ Feature List
 3. We added a feature that enables our agent to give at least 5 different reasonable responses when the user enters something outside the two topics. It improves our agent’s conversation by handle the greeting and random response.
 
 4. We added a feature that enables your agent to handle spelling mistakes of the words that your agent is supposed to recognize. It improves our agent’s conversation by auto checking the spelling. To avoid us to handle more complicated scentense.
+
+
+
+The screen shot of features are in Readme.pdf
